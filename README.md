@@ -9,7 +9,7 @@ Two regression problems are explored:
 * Student Score Prediction – Predicting student exam scores based on the number of hours studied.
 * California Housing Price Prediction – Predicting median house values using multiple housing-related features from the California Housing dataset.
 
-⸻
+
 
 ## Features
 
@@ -21,7 +21,7 @@ Two regression problems are explored:
 * Data visualization using Matplotlib
 * Comparison of actual and predicted values
 
-⸻
+
 
 ## Technologies Used
 
@@ -31,7 +31,7 @@ Two regression problems are explored:
 * Matplotlib
 * Scikit-learn
 
-⸻
+
 
 ## Machine Learning Workflow
 
@@ -43,7 +43,7 @@ Two regression problems are explored:
 6. Generate predictions
 7. Visualize and compare actual vs. predicted values
 
-⸻
+
 
 ## Datasets
 
@@ -66,7 +66,7 @@ California Housing Dataset
 * Target:
     * Median House Value
 
-⸻
+
 
 ## Learning Outcomes
 
@@ -80,7 +80,7 @@ Through this project, the following machine learning concepts were applied:
 * Data Visualization
 * Regression Analysis using Scikit-learn
 
-⸻
+
 
 ## Future Improvements
 
@@ -92,7 +92,7 @@ Through this project, the following machine learning concepts were applied:
 * Compare Linear Regression with other regression models such as Support Vector Regression (SVR), Decision Trees, and Random Forest Regression.
 * Perform feature engineering and hyperparameter tuning to improve model performance.
 
-⸻
+
 
 # Author
 
